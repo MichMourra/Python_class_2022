@@ -25,7 +25,7 @@ EXAMPLES
           r found at position 19
           y found at position 29      
 GITHUB 
-        https://github.com/Melii99/Python_class_2022/Tareas/1_ATrich.py
+        https://github.com/Melii99/Python_class_2022/blob/main/Tareas/1_ATrich.py
        
 """
 
