@@ -3,7 +3,8 @@ NAME
        1_ATrich.py
 VERSION
         [1.0]
-
+AUTHOR
+        Melissa Mayén Quiroz
 DESCRIPTION
         La función ATrich nos pide como parámetros el path a la ubicación del archivo (raw) con la secuencia
         a analizar y el numero que indica en tamaño de la región mínima a buscar como región rica en ATs. 
